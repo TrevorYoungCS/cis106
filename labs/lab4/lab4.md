@@ -17,7 +17,7 @@ Assignment: Lab 4
 ![q3](practice3.png)
 ![q3](practice3sh.png)
 
-
+## Challenge question 
 ## Script Source code:
 * [source code](lab4_challenge_script.sh)
 * ![lab 4 chg](lab4challenge.png)

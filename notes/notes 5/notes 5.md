@@ -73,8 +73,4 @@ tac + option + file(s) to display
   diff -y cars.csv cars-backup.csv 
 ## grep
 * Definition 
-The diff command compares files and displays the differences between them 
-* Usage
-  diff + option + file1 + file2 
-* Example 
-  diff cars.csv cars-backup
+Grep is used to search text in given file. Grep works line bt line basis (it matches search criteria in a line by line basis).
